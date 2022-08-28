@@ -12,7 +12,7 @@ I received my PhD in May 2022 from Brown University, advised by [Dan Abramovich]
 
 ## Contact
 
-Permanent email: jiaxiw@bu.edu
+Permanent email: jiaxiw(at)bu(dot)edu 
 
 
 
