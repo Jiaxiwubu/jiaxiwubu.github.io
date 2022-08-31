@@ -8,13 +8,13 @@ layout: default
 
 I am currently a PhD Student at Boston University. 
 
-I was a [research fellow](https://professional.heart.org/en/research-programs/a-trac/meet-our-fellows)for the American Heart Association Tobacco Center for Regulatory Science (A-TRAC) between 2020-2022.
+I was a [research fellow](https://professional.heart.org/en/research-programs/a-trac/meet-our-fellows) for the American Heart Association Tobacco Center for Regulatory Science [(A-TRAC)](https://professional.heart.org/en/research-programs/a-trac) between 2020-2022, mentored by Dr. [Jessica L. Fetterman](https://www.bumc.bu.edu/busm/profile/jessica-fetterman/) and Dr.[Traci Hong].(https://www.bu.edu/com/profile/traci-hong/).
 
-I will receive my PhD in May 2022 from Boston University, advised by [Traci Hong].(https://www.bu.edu/com/profile/traci-hong/)
+I will receive my PhD in May 2022 from Boston University, advised by Dr.Traci Hong.
 
 ## Contact
 
-Permanent email: jiaxiw(at)bu(dot)edu 
+Email: jiaxiw(at)bu(dot)edu 
 
 
 
