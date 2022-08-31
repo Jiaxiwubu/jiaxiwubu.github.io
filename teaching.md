@@ -8,8 +8,8 @@ layout: default
 
 ## Previous Teaching
 #### College of Communication, Boston University
- - Fall 2019: Teaching Assistant – COM [CM101 The World of Communication](https://www.bu.edu/academics/com/courses/com-co-101/)
- - Fall 2018: Teaching Assistant – COM [CM101 The World of Communication](https://www.bu.edu/academics/com/courses/com-co-101/)
+ - Fall 2019: Teaching Assistant – [CM101 The World of Communication](https://www.bu.edu/academics/com/courses/com-co-101/)
+ - Fall 2018: Teaching Assistant – CM101 The World of Communication
 
 #### University Health Services, University of Wisconsin-Madison
  - 09/2017 - 06/2018: Facilitator - [Badgers Step Up Alcohol Prevention and Bystander Intervention](https://guide.cfli.wisc.edu/documents/badgers-step-up/)
