@@ -3,12 +3,14 @@ layout: default
 ---
 
 ## Current teaching
-
+### Boston University
+-09/2022 – present	Instructor – COM CM321 Communication Research Methods
+			College of Communication, Boston University
 
 
 
 ## Previous Teaching
-### Brown University
+### Boston University
  - Spring 2022: Intermediate Calculus (Physics/Engineering), Instructor
  - Summer 2021: Introductory Calculus, Part II (Online), Teaching Assistant
  - Fall 2019: Intermediate Calculus (Physics/Engineering), Instructor
