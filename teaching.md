@@ -16,7 +16,7 @@ layout: default
 
 ## Invited Talk
 #### College of Communication, Boston University
-- CM 280: Persuasion Theory
+- [CM 280: Persuasion Theory](https://www.bu.edu/academics/com/courses/com-cm-280/)
 - Topic: Persuasion in Social Media — A Social Network Approach
 
 #### American Heart Association
