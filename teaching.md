@@ -20,5 +20,5 @@ layout: default
 - Topic: Persuasion in Social Media — A Social Network Approach
 
 #### American Heart Association
--  9/2021- Tobacco Center for Regulatory Science (A-TRAC) Annual Meeting 
+-  5/2021- Tobacco Center for Regulatory Science (A-TRAC) Annual Meeting 
 -  Topic: Tobacco Industry Marketing Tactics to Attract Younger Generations
