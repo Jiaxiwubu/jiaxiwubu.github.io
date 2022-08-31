@@ -20,4 +20,6 @@ nav:
    link: "publication"
  - name: "CV"
    link: "cv"
+ - name: "Contact"
+   link: "contact"
 
