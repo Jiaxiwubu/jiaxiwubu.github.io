@@ -8,7 +8,7 @@ layout: default
 
 ## Previous Teaching
 #### College of Communication, Boston University
- - Fall 2019: Teaching Assistant – COM [CM101 The World of Communication](https://www.bu.edu/academics/com/courses/com-co-101/）
+ - Fall 2019: Teaching Assistant – COM [CM101 The World of Communication](https://www.bu.edu/academics/com/courses/com-co-101/)
  - Fall 2018: Teaching Assistant – COM [CM101 The World of Communication](https://www.bu.edu/academics/com/courses/com-co-101/)
 
 #### University Health Services, University of Wisconsin-Madison
