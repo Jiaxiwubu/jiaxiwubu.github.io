@@ -17,4 +17,3 @@ layout: default
 - Xu, Y. A., Kim, H. M., Wang, Y., Wu, J., Hong, T., & McLaughlin, M. (2021). Public responses and concerns regarding vape bans on Reddit: A longitudinal topic modeling approach. In G. Meiselwitz (Ed.), Social Computing and Social Media: Experience Design and Social Network Analysis (Vol. 12774, pp. 391-403). Springer, Cham. https://doi.org/10.1007/978-3-030-77626-8_26
 
 - Riddle, K., Tay, S. K., & Wu, J. (2019). “It lets me fight the bad guys”: An exploration into the factors predicting enjoyment of violent video games. Communication Studies, 70(1), 36-58. https://doi.org/10.1080/10510974.2018.1438490
-![image](https://user-images.githubusercontent.com/43457421/187581502-a7fb1a8a-46a9-461e-8103-a5f0592f405e.png)
