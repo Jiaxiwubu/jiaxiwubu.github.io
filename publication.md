@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Upcoming travel
+## Publications
 
 - Wu, J., & Hong, T. (2022). The picture of #mentalhealth on Instagram: Congruent vs. incongruent emotions in predicting the sentiment of comments. Frontiers in Communication,7. https://doi.org/10.3389/fcomm.2022.824119
 
