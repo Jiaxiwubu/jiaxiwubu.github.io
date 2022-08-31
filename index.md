@@ -10,7 +10,7 @@ I am currently a PhD candidate in Emerging Media Studies. I will receive my PhD 
 
 
 
-I was a [research fellow](https://professional.heart.org/en/research-programs/a-trac/meet-our-fellows) for the American Heart Association Tobacco Center for Regulatory Science [(A-TRAC)](https://professional.heart.org/en/research-programs/a-trac) between 2020-2022, mentored by [Dr. Jessica L. Fetterman](https://www.bumc.bu.edu/busm/profile/jessica-fetterman/) and Dr. Traci Hong.
+I was a research fellow for the [American Heart Association Tobacco Center for Regulatory Science (A-TRAC)](https://professional.heart.org/en/research-programs/a-trac/meet-our-fellows) between 2020-2022, mentored by [Dr. Jessica L. Fetterman](https://www.bumc.bu.edu/busm/profile/jessica-fetterman/) and Dr. Traci Hong.
 
 
 ## Contact
