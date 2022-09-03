@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="jiaxi.jpeg">
+<img class="profile-picture" src="jiaxi.png">
 
 I am currently a PhD candidate in Emerging Media Studies. I will receive my PhD in May 2022 from Boston University, advised by [Dr. Traci Hong](https://www.bu.edu/com/profile/traci-hong/).
 
