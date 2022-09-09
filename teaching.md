@@ -28,7 +28,6 @@ layout: default
 - 5/2021- Tobacco Center for Regulatory Science (A-TRAC) Annual Meeting 
   - Topic: Tobacco Industry Marketing Tactics to Attract Younger Generations
 
+&Newline;  
 
-
-#^ two spaces
 
