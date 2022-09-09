@@ -24,9 +24,9 @@ layout: default
 ## Working Papers
 
 ### Under Review: 
-**Wu, J.**, Origgi, J.M., Ranker, L.R., Bhatnagar, A., Robertson, R.M., Xuan, Z., Wijaya, D., Hong, T., Fetterman, J.L., (under review by JMIR Infodemiology), Health warning labels and engagement in little cigar and cigarillo Instagram promotions: using computer vision to detect compliance with FDA guidelines.
+**Wu, J.**, Origgi, J.M., Ranker, L.R., Bhatnagar, A., Robertson, R.M., Xuan, Z., Wijaya, D., Hong, T., Fetterman, J.L., (under review), Health warning labels and engagement in little cigar and cigarillo Instagram promotions: using computer vision to detect compliance with FDA guidelines.
 
-**Wu, J.**, Wang, Y., Xu., Y.A., Fetterman, J.L., Hong, T., (under review by the International Journal of Communication), Morally driven and emotionally fueled: the interactive effects of values and emotions in the social transmission of information endorsing e-cigarettes.
+**Wu, J.**, Wang, Y., Xu., Y.A., Fetterman, J.L., Hong, T., (under review), Morally driven and emotionally fueled: the interactive effects of values and emotions in the social transmission of information endorsing e-cigarettes.
 In Writing:
 
 ### In Writing
