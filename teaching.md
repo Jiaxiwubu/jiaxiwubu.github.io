@@ -22,6 +22,8 @@ layout: default
   - Topic: Persuasion in Social Media — A Social Network Approach
 
 #### American Heart Association 
+- 5/2022 - [CM 280: Persuasion Theory](https://www.bu.edu/academics/com/courses/com-cm-280/)
+  - Topic: Persuasion in Social Media — A Social Network Approach
 -  10/2021- Tobacco Centers of Regulatory Science (A-TRAC) Weekly Webinar
   - Topic: Filing a Docket Comment with the FDA
 
