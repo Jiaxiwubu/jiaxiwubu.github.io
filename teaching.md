@@ -23,8 +23,8 @@ layout: default
 
 #### American Heart Association 
 -  10/2021- Tobacco Centers of Regulatory Science (A-TRAC) Weekly Webinar
-  -  Topic: Filing a Docket Comment with the FDA
+  - Topic: Filing a Docket Comment with the FDA
 
 -  5/2021- Tobacco Center for Regulatory Science (A-TRAC) Annual Meeting 
-  -  Topic: Tobacco Industry Marketing Tactics to Attract Younger Generations
+  - Topic: Tobacco Industry Marketing Tactics to Attract Younger Generations
 
