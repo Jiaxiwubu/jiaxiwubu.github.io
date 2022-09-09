@@ -19,12 +19,12 @@ layout: default
 ## Invited Talk
 #### College of Communication, Boston University
 - 5/2022 - [CM 280: Persuasion Theory](https://www.bu.edu/academics/com/courses/com-cm-280/)
-- Topic: Persuasion in Social Media — A Social Network Approach
+  - Topic: Persuasion in Social Media — A Social Network Approach
 
 #### American Heart Association 
 -  10/2021- Tobacco Centers of Regulatory Science (A-TRAC) Weekly Webinar
--  Topic: Filing a Docket Comment with the FDA
+  -  Topic: Filing a Docket Comment with the FDA
 
 -  5/2021- Tobacco Center for Regulatory Science (A-TRAC) Annual Meeting 
--  Topic: Tobacco Industry Marketing Tactics to Attract Younger Generations
+  -  Topic: Tobacco Industry Marketing Tactics to Attract Younger Generations
 
