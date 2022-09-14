@@ -4,4 +4,8 @@ layout: default
 
 ## Research interest
 
-I am interested in 
+My research interests mainly focus on how to effectively communicate health information in different contexts and through different channels to individuals, especially among youth and underrepresented populations (e.g., people of color; people from a lower socioeconomic status; pregnant people). I have a strong interest in conducting interdisciplinary research among communication, public health, and media psychology. I am interested in both the **micro-level process of persuasion**, as well as the more **macro-level health communication** that occurs in society. I use mixed methods, especially **quantitative and computational methods** to study how communications from advertising campaigns, news reports, social media discussions, and misinformation shape **public health issues** such as tobacco control and vaccine promotion.
+
+My  fellowship projects primarily interested in how tobacco promotions on emerging social media impact attitudes, beliefs, and behaviors related to tobacco use among youths and underrepresented populations. Using social media analytics and big data, I studied the promotions of flavored cigar products on social media (i.e., TikTok, Twitter, Instagram), the compliance of health warning requirements in tobacco influencer Instagram posts, the impact of influencers in tobacco promotions, and how such promotions may disproportionately target and influence health perceptions among youth and underrepresented populations.
+
+
