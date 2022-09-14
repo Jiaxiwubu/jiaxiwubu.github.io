@@ -1,7 +1,6 @@
 #### [1. The Impact of Influencers on Cigar Promotions: A Content Analysis of Large Cigar and Swisher Sweets Videos on TikTok](https://pubmed.ncbi.nlm.nih.gov/35742315/)
 **Authors**: Jiaxi Wu, Alyssa F Harlow, Derry Wijaya, Micah Berman, Emelia J Benjamin, Ziming Xuan, Traci Hong, Jessica L Fetterman
 ![My Image](cigarimage.jpeg)
-
 **Background**: Little is known about the content, promotions, and individuals in cigar-related videos on TikTok.<br />
 <br />
 **Methods**: TikTok videos with large cigar and Swisher Sweets-related hashtags between July 2016 and September 2020 were analyzed. Follower count was used to identify influencers. We compared content characteristics and demographics of featured individuals between cigar types, and by influencer status. We also examined the association between content characteristics and video engagement.<br />
@@ -18,7 +17,6 @@
 #### [2. The Picture of #Mentalhealth on Instagram: Congruent vs. Incongruent Emotions in Predicting the Sentiment of Comments](https://www.frontiersin.org/articles/10.3389/fcomm.2022.824119/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCOMM_XXXXXXXX_auto-dlvrit)
 **Authors**: Jiaxi Wu, Traci Hong
 ![My Image](mental.jpeg)
-
 **Background**: This study explores the effects of sentiment of Instagram images and captions on the sentiment of comments.<br />
 <br />
 **Methods**: All Instagram posts with the hashtag #mentalhealth and the associated metadata were scraped on World Mental Health Day. A mixed-method approach of a sentiment classifier and a quantitative content analysis of Instagram posts (N = 7,078) was used.<br />
@@ -35,7 +33,6 @@
 #### 3. Health Warning Labels Associate with Less Engagement in Little Cigar and Cigarillo Instagram Promotions: Using Computer Vision to Detect FDA Guidelines (under review)
 **Authors**: Jiaxi Wu, Juan Manuel Origgi, Lynsie R. Ranker, Ziming Xuan, Derry Wijaya, Traci Hong, Jessica L. Fetterman
 ![My Image](warning.jpeg)
-
 **Background**: Little is known regarding the current state of influencer promotions of little cigars and cigarillos on Instagram and the use of health warnings in influencer promotions.<br />
 <br />
 **Methods**: Instagram influencers were identified as those who were tagged by any of the top three little cigar and cigarillo brand Instagram pages between January 2018 and November 2021. Posts from identified influencers that mentioned one of the three brands were considered little cigar and cigarillo influencer promotions. A mixed-method approach of manual coding and computer vision was performed to measure the presence and properties of health warnings in a sample of 889 influencer posts. Negative binomial regressions were performed to examine the associations of health warning properties with post engagement.<br />
@@ -55,7 +52,6 @@
 #### 4. Morally Driven and Emotionally Fueled: The Interactive Effects of Values and Emotions in the Social Transmission of Information Endorsing E-cigarettes (under review)
 **Authors**: Jiaxi Wu, Yunwen Wang, Yusi Aveva Xu, Jessica L. Fetterman, Traci Hong
 ![My Image](twitter.jpeg)
-
 **Background**: Drawing upon the literature on Moral Foundations Theory and the social transmission of information, our study investigated the effects of values and emotions on the sharing of pro-vaping Twitter posts.<br />
 <br />
 **Methods**: Tweets (N = 9,542) containing top pro-vaping hashtags during the time of e-cigarette or vaping use-associated lung injury (EVALI) and the federal vape bans were analyzed. Lexicon-based classification tools produced the frequencies of moral and emotional words in the corpus.<br />
