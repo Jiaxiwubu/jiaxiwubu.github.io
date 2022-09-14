@@ -1,5 +1,4 @@
-![alt text](1.jpeg "Title" width="50%" height="50%")
-#### [The Impact of Influencers on Cigar Promotions: A Content Analysis of Large Cigar and Swisher Sweets Videos on TikTok](https://pubmed.ncbi.nlm.nih.gov/35742315/)
+#### [1. The Impact of Influencers on Cigar Promotions: A Content Analysis of Large Cigar and Swisher Sweets Videos on TikTok](https://pubmed.ncbi.nlm.nih.gov/35742315/)
 ![My Image](cigarimage.jpeg)
 
 **Background**: Little is known about the content, promotions, and individuals in cigar-related videos on TikTok.<br />
