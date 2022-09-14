@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="Jiaxi.jpeg">
+<img class="profile-picture" src="jiaxi.jpeg">
 
 I am a Ph.D. candidate in [Emerging Media Studies](https://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/) at Boston University, advised by [Dr. Traci Hong](https://www.bu.edu/com/profile/traci-hong/). 
 
