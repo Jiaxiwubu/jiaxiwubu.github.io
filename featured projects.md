@@ -13,6 +13,26 @@
 &nbsp;
 &nbsp;
 
+
+---
+#### [2. Health Warning Labels Associate with Less Engagement in Little Cigar and Cigarillo Instagram Promotions: Using Computer Vision to Detect FDA Guidelines] (under review)
+![My Image](warning.jpeg)
+
+**Background**: Little is known regarding the current state of influencer promotions of little cigars and cigarillos on Instagram and the use of health warnings in influencer promotions.<br />
+<br />
+**Methods**: Instagram influencers were identified as those who were tagged by any of the top three little cigar and cigarillo brand Instagram pages between January 2018 and November 2021. Posts from identified influencers that mentioned one of the three brands were considered little cigar and cigarillo influencer promotions. A mixed-method approach of manual coding and computer vision was performed to measure the presence and properties of health warnings in a sample of 889 influencer posts. Negative binomial regressions were performed to examine the associations of health warning properties with post engagement.<br />
+<br />
+**Results**: Computer vision was 99.3% accurate in detecting the presence of health warnings. Only 8.2% (n = 73) of little cigar and cigarillo influencer posts included a health warning. Negative binomial results showed posts that contained health warnings received fewer likes (IRR = 0.59, CI = 0.49, 0.71) and comments (IRR = 0.47, CI = 0.32, 0.68).<br />
+<br />
+**Conclusions**: Health warnings are rarely used by influencers tagged on little cigar and cigarillo brand accounts. Very few influencer posts met the FDA health warning requirement of size and placement for tobacco advertising. The presence of a health warning was associated with lower online engagement. Using an innovative computer vision approach to detect health warning labels in influencer promotions on social media is a novel strategy for monitoring health warning compliance in online tobacco promotions.<br />
+<br />
+**Implications**: Health warnings in tobacco advertising provide health information while also increasing the perceived risks of tobacco use. However, existing federal laws requiring warnings on advertisements for tobacco products do not specify whether the rules apply to social media promotions. Our study provides support for the implementation of comparable health warning requirements to social media tobacco promotions.<br />
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ---
 #### [3. The Picture of #Mentalhealth on Instagram: Congruent vs. Incongruent Emotions in Predicting the Sentiment of Comments](https://www.frontiersin.org/articles/10.3389/fcomm.2022.824119/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCOMM_XXXXXXXX_auto-dlvrit)
 ![My Image](mental.jpeg)
