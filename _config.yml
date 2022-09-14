@@ -14,7 +14,7 @@ sass:
 nav:
  - name: "Research Interests"
    link: "research"
- - name: "Featured Lead-Authored Projects"
+ - name: "Featured Projects"
    link: "featured projects"
  - name: "Publication"
    link: "publication"
