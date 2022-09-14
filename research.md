@@ -4,7 +4,7 @@ layout: default
 
 ## Research interests
 
-My research interests mainly focus on how to effectively communicate health information in different contexts and through different channels to individuals, especially among youth and underrepresented populations (e.g., people of color; people from a lower socioeconomic status; pregnant people). I have a strong interest in conducting interdisciplinary research among communication, public health, and media psychology. I am interested in both the **micro-level process of persuasion**, as well as the more **macro-level health communication** that occurs in society. 
+My research interests mainly focus on how to effectively communicate health information in different contexts and through different channels to individuals, especially among youth and underrepresented populations (e.g., people of color; people from a lower socioeconomic status; pregnant people). I have a strong interest in conducting interdisciplinary research among communication, public health, and media psychology. I am interested in both the **micro-level process of persuasion**, as well as the more _macro-level_ health communication** that occurs in society. 
 
 I use mixed methods, especially **quantitative and computational methods** to study how communications from advertising campaigns, news reports, social media discussions, and misinformation shape **public health issues** such as tobacco control and vaccine promotion.
 
