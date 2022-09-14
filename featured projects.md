@@ -39,8 +39,6 @@
 <br />
 **Results**: Computer vision was 99.3% accurate in detecting the presence of health warnings. Only 8.2% (n = 73) of little cigar and cigarillo influencer posts included a health warning. Negative binomial results showed posts that contained health warnings received fewer likes (IRR = 0.59, CI = 0.49, 0.71) and comments (IRR = 0.47, CI = 0.32, 0.68).<br />
 <br />
-**Conclusions**: Health warnings are rarely used by influencers tagged on little cigar and cigarillo brand accounts. Very few influencer posts met the FDA health warning requirement of size and placement for tobacco advertising. The presence of a health warning was associated with lower online engagement. Using an innovative computer vision approach to detect health warning labels in influencer promotions on social media is a novel strategy for monitoring health warning compliance in online tobacco promotions.<br />
-<br />
 **Implications**: Health warnings in tobacco advertising provide health information while also increasing the perceived risks of tobacco use. However, existing federal laws requiring warnings on advertisements for tobacco products do not specify whether the rules apply to social media promotions. Our study provides support for the implementation of comparable health warning requirements to social media tobacco promotions.<br />
 
 &nbsp;
