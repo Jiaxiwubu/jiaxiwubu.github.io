@@ -15,7 +15,7 @@
 
 
 ---
-#### [2. Health Warning Labels Associate with Less Engagement in Little Cigar and Cigarillo Instagram Promotions: Using Computer Vision to Detect FDA Guidelines] (under review)
+#### 2. Health Warning Labels Associate with Less Engagement in Little Cigar and Cigarillo Instagram Promotions: Using Computer Vision to Detect FDA Guidelines (under review)
 ![My Image](warning.jpeg)
 
 **Background**: Little is known regarding the current state of influencer promotions of little cigars and cigarillos on Instagram and the use of health warnings in influencer promotions.<br />
