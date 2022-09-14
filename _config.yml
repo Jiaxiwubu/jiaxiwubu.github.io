@@ -12,14 +12,14 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Research"
+ - name: "Research Interests"
    link: "research"
- - name: "Featured Projects"
+ - name: "Featured Lead-Authored Projects"
    link: "featured projects"
- - name: "Teaching"
-   link: "teaching"
  - name: "Publication"
    link: "publication"
+ - name: "Teaching"
+   link: "teaching"
  - name: "CV"
    link: "JiaxiWu_CV_2022_Sep.pdf"
 
