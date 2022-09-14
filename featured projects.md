@@ -48,3 +48,19 @@
 &nbsp;
 &nbsp;
 
+---
+#### 4. Morally Driven and Emotionally Fueled: The Interactive Effects of Values and Emotions in the Social Transmission of Information Endorsing E-cigarettes (under review)
+![My Image](twitter.jpeg)
+
+**Background**: Drawing upon the literature on Moral Foundations Theory and the social transmission of information, our study investigated the effects of values and emotions on the sharing of pro-vaping Twitter posts.<br />
+<br />
+**Methods**: Tweets (N = 9,542) containing top pro-vaping hashtags during the time of e-cigarette or vaping use-associated lung injury (EVALI) and the federal vape bans were analyzed. Lexicon-based classification tools produced the frequencies of moral and emotional words in the corpus.<br />
+<br />
+**Results**: Results showed that Authority/subversion and Care/harm moral foundations, anger, and sadness predicted the sharing of pro-vaping tweets. Further analyses revealed the interaction effects between emotions and certain moral foundations on the social transmission of pro-vaping tweets. Emotions had a stronger effect on eliciting shares when a post contained lower levels of moral foundations.<br />
+<br />
+**Implications**: This study provides insights into the mechanism of how pro-vaping messages are amplified on Twitter, emphasizing the roles of moral values and emotions in enabling the process.<br />
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
