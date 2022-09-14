@@ -4,14 +4,15 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="Jiaxi.jpg">
+<img class="profile-picture" src="Jiaxi.jpeg">
 
-I am currently a PhD candidate in [Emerging Media Studies](https://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/) in the College of Communication at Boston University. I will receive my PhD in May 2022, advised by [Dr. Traci Hong](https://www.bu.edu/com/profile/traci-hong/).
+I am a Ph.D. candidate in [Emerging Media Studies](https://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/) at Boston University, advised by [Dr. Traci Hong](https://www.bu.edu/com/profile/traci-hong/). 
 
+I was a research fellow for the American Heart Association Tobacco Center for Regulatory Science [(A-TRAC)](https://professional.heart.org/en/research-programs/a-trac/meet-our-fellows) between 2020-2022, co-mentored by [Dr. Jessica L. Fetterman](https://www.bumc.bu.edu/busm/profile/jessica-fetterman/) and Dr. Traci Hong.
 
+My research interests mainly focus on how to effectively communicate health information in different contexts and through different channels to individuals, especially among youth and underrepresented populations. I am interested in both the micro-level process of persuasion, as well as the more macro-level health communication that occurs in society. Specifically, I study how communications from advertising campaigns, news reports, social media discussions, and misinformation shape public health issues such as vaccine promotion and tobacco control.
 
-I was a research fellow for the American Heart Association Tobacco Center for Regulatory Science [(A-TRAC)](https://professional.heart.org/en/research-programs/a-trac/meet-our-fellows) between 2020-2022, mentored by [Dr. Jessica L. Fetterman](https://www.bumc.bu.edu/busm/profile/jessica-fetterman/) and Dr. Traci Hong.
-
+My dissertation focuses on 
 
 ## Contact
 
