@@ -14,14 +14,14 @@
 &nbsp;
 
 ---
-#### [2. The Picture of #Mentalhealth on Instagram: Congruent vs. Incongruent Emotions in Predicting the Sentiment of Comments](https://www.frontiersin.org/articles/10.3389/fcomm.2022.824119/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCOMM_XXXXXXXX_auto-dlvrit)
+#### [3. The Picture of #Mentalhealth on Instagram: Congruent vs. Incongruent Emotions in Predicting the Sentiment of Comments](https://www.frontiersin.org/articles/10.3389/fcomm.2022.824119/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FCOMM_XXXXXXXX_auto-dlvrit)
 ![My Image](mental.jpeg)
 
 **Background**: This study explores the effects of sentiment of Instagram images and captions on the sentiment of comments.<br />
 <br />
 **Methods**: All Instagram posts with the hashtag #mentalhealth and the associated metadata were scraped on World Mental Health Day. A mixed-method approach of a sentiment classifier and a quantitative content analysis of Instagram posts (N = 7,078) was used.<br />
 <br />
-**Results**: COverall, our sample contained more positive sentiment posts and comments than negative ones, indicating a possible connection between mental health-related discourse and positive sentiment on Instagram. Images containing faces elicited more likes, comments and positive comments compared with images without faces. MANCOVA analyses of images with human faces found that emotional contagion from Instagram posts to comments was only observed when considering the sentiment of both images and captions. Congruency effects were seen for posts with both negative captions and images, which elicited more negative comments compared to emotionally incongruent posts.<br />
+**Results**: Overall, our sample contained more positive sentiment posts and comments than negative ones, indicating a possible connection between mental health-related discourse and positive sentiment on Instagram. Images containing faces elicited more likes, comments and positive comments compared with images without faces. MANCOVA analyses of images with human faces found that emotional contagion from Instagram posts to comments was only observed when considering the sentiment of both images and captions. Congruency effects were seen for posts with both negative captions and images, which elicited more negative comments compared to emotionally incongruent posts.<br />
 <br />
 **Implications**: The findings of this study may be helpful to practitioners interested in using Instagram to maximize the emotional reactions from the targeted audience for the communication and prevention of mental health issues. <br />
 &nbsp;
