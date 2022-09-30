@@ -24,15 +24,18 @@ layout: default
 ## Working Papers
 
 ### Under Review: 
+
+**Wu, J.**, Wang, Y., Xu., Y.A., Fetterman, J.L., Hong, T., (revise and resubmit), Morally driven and emotionally fueled: the interactive effects of values and emotions in the social transmission of information endorsing e-cigarettes.
+
 **Wu, J.**, Origgi, J.M., Ranker, L.R., Bhatnagar, A., Robertson, R.M., Xuan, Z., Wijaya, D., Hong, T., Fetterman, J.L., (under review), Health warning labels and engagement in little cigar and cigarillo Instagram promotions: using computer vision to detect compliance with FDA guidelines.
 
-**Wu, J.**, Wang, Y., Xu., Y.A., Fetterman, J.L., Hong, T., (under review), Morally driven and emotionally fueled: the interactive effects of values and emotions in the social transmission of information endorsing e-cigarettes.
-In Writing:
 
 ### In Writing
 **Wu, J.**, Ranker, L., Origgi, J.M., Ma, J., Hao, D., Benjamin, E. J., Xuan, Z., Wijaya, D., Fetterman, J. L., Hong, T., Does protecting status of a cigar Twitter account prevent engagement from underaged users? a social media analysis of public and protected swisher sweets promotional tweets.
 
 Ranker, L., **Wu, J.**, Hong, T., Benjamin, E. J., Bhatnagar A., Robertson, R.M., Fetterman, J.L., Xuan, Z. Social media use, brand engagement, and tobacco product initiation among youth: Evidence from a prospective cohort study.
+
+Wang, Y., **Wu, J.**, Hong, T., How do pregnant and pre-pregnancy persons communicate COVID-19 vaccine hesitancy online? The role of health support groups on Reddit.
 
 Ranker, L., Lu, M., **Wu, J.**, Bhatnagar, A., Robertson, R.M., Wijaya, D., Hong, T., Fetterman, J.F., Xuan, Z. I only vape when I drink”: A content analysis of tweets mentioning both vaping and alcohol use.
 
