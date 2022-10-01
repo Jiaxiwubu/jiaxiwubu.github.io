@@ -20,5 +20,7 @@ nav:
    link: "publication"
  - name: "Teaching"
    link: "teaching"
+ - name: "CV"
+   link: "JiaxiWu_CV.pdg"
 
 
