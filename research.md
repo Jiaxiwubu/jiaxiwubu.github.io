@@ -6,7 +6,7 @@ layout: default
 
 My research interests, as shown in the Figure below, center around two disciplines: health and social media, which formed my first research area: **the interplay between public health and social media**. My second research area builds on the first by incorporating the concept of persuasion, namely, **health persuasion on social media**. My third research area concerns **individual information behaviors on social media**, including the seeking, sharing, and avoidance of health information on social media. 
 
-
+![My Image](research.jpeg)
 
 
 I use **mixed methods**, especially quantitative and computational methods to study how communications from advertising campaigns, news reports, social media discussions, and misinformation shape public health issues such as tobacco control, vaccine promotion and mental health.
