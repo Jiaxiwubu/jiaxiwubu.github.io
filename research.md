@@ -16,13 +16,15 @@ My **[ATRAC fellowship](https://professional.heart.org/en/research-programs/a-tr
 My **dissertation studies** focus on developing effective vaping prevention and cessation campaigns on TikTok, a youth-appealing social media platform. Specifically, my dissertation investigates on the impact of message frames (loss vs. gain) in anti-vaping campaigns. Previous literature reviews of studies on health message frames have reported contradictory and inconsistent findings. My dissertation seeks to capture the illusive message framing effect by 1) proposing to differentiate between prevention behaviors and cessation behaviors, 2) identifying potential moderators especially at the individual level that may reveal the message framing effect, and 3) investigating the congruency effect between message frames and message kernel states (the description of desirable/undesirable outcomes).
 
 ## Research Areas
-Health communication <br />
-Computer-mediated communication <br />
-Health information technology <br />
-Social media uses and effects <br />
-Media psychology <br />
-Health equity <br />
-
+Health communication<br />
+Health promotion<br /> 
+Health equity<br />
+Computer-mediated-communication<br />
+Computational methods<br /> 
+Social media analysis<br />
+Media psychology<br />
+Media uses and effects<br />
+Tobacco regulatory science<br />
 
 &nbsp;
 &nbsp;
