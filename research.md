@@ -19,7 +19,6 @@ My **dissertation studies** focus on developing effective vaping prevention and 
 Health communication and promotion<br /> 
 Health equity<br />
 Computer-mediated-communication<br />
-Social media analysis<br />
 Media psychology<br />
 Media uses and effects<br />
 Tobacco regulatory science<br />
