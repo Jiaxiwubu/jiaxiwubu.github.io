@@ -9,7 +9,7 @@ My research interests, as shown in the Figure below, center around two disciplin
 
 ![My Image](research.jpeg)<br /> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **(Figure 1. My three research interests and areas)**<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **(Figure 1. My Three Research Interests and Areas)**<br /> 
 
 I use **mixed methods**, especially quantitative and computational methods to study how communications from advertising campaigns, news reports, social media discussions, and misinformation shape public health issues such as tobacco control, vaccine promotion and mental health.
 
