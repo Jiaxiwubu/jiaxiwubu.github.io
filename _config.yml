@@ -7,7 +7,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://scholar.google.com/citations?user=Z-CTMmsAAAAJ&hl=en&oi=sra"
-footer_text: Last updated date: Oct 9, 2022
+footer_text: "Last updated date: Oct 9, 2022"
 
 sass:
     style: compressed
